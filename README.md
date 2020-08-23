@@ -6,4 +6,4 @@ Run command
 go run main.go -p=input_path
 ```
 ## Demo
-![demo](screenshots/demo.png)
+![demo](screenshots/huff_code.png)
